@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="461981cc-c119-45c8-b2dd-b203f5a5b000" name="Changes" comment="add readme">
-      <change afterPath="$PROJECT_DIR$/assets/sprites/scifitiles-sheet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maps/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maps/map.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/.keepdir" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/rectangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/rectangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/physics/collision.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/physics/collision.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/constants.py" afterDir="false" />
-    </list>
+    <list default="true" id="461981cc-c119-45c8-b2dd-b203f5a5b000" name="Changes" comment="add gitignore file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,6 +78,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +105,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682825654489</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add map">
+      <created>1682905968467</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682905968467</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add gitignore file">
+      <created>1682906096882</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682906096882</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +136,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <MESSAGE value="add readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="add readme" />
+    <MESSAGE value="add map" />
+    <MESSAGE value="add gitignore file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add gitignore file" />
   </component>
 </project>
