@@ -4,15 +4,3 @@ SCREEN_DIMENSIONS = {
     "WIDTH": 1280,
     "HEIGHT": 800
 }
-
-MAP_DIMENSIONS = {
-    "WIDTH": 2560,
-    "HEIGHT": 1440
-}
-
-MAP_BOUNDS = {
-    "TOP_LEFT": [12, 10],
-    "TOP_RIGHT": [67, 10],
-    "BOTTOM_LEFT": [12, 32],
-    "BOTTOM_RIGHT": [67, 32]
-}
