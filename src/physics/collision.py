@@ -1,3 +1,8 @@
+from src.game.circle import Circle
+from src.game.rectangle import Rectangle
+from src.game.triangle import Triangle
+
+
 class Collision():
     def __init__(self):
         self.isCollision = false
